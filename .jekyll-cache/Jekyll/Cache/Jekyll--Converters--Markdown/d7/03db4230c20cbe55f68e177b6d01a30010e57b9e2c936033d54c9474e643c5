@@ -1,0 +1,52 @@
+I"�<h2 id="hello-world">Hello World</h2>
+<p>Hello! My name is Will and welcome to my projects blog. I am currently a student at the University of Colorado, Boulder studying electrical/computer engineering. I created this website in order 
+to push my studies and projects to the next level by forcing myself to document the process. The main idea is to get a solid sense of how far I have progressed with the projects I am working on and the topics
+that I am learning. The things I am mainly concerned with working on are, you probably guessed, electronics/computer related projects with a digital focus. Along with these projects I will be also talking about what I am
+learning in terms of skills inside and outside of my education. I really want to create a place that I can go back and look
+at what I have learned as reference and reassurance when inevitable “Imposter Syndrome” kicks in.
+That being said, lets get right into the meat of it.</p>
+
+<h2 id="baseline-knowledge">Baseline Knowledge</h2>
+<p>As of June 2021, this is a short summary of my skills.</p>
+<ul>
+  <li>C/C++</li>
+  <li>x86 assembly</li>
+  <li>Basic microcontroller knowledge</li>
+  <li>Verilog</li>
+  <li>GTKwave and simulation techniques</li>
+  <li>Basic circuits knowledge</li>
+  <li>Filter circuit knowledge</li>
+  <li>Simple circuit debugging</li>
+  <li>Math through (Calculus III and Differential Equations)</li>
+  <li>Intro physics Mechanics, Electricity and Magnetism</li>
+  <li>Basic matlab</li>
+  <li>git</li>
+  <li>Virtual machine knowledge</li>
+  <li>Basic computer hardware knowledge</li>
+</ul>
+
+<h2 id="first-plans">First Plans</h2>
+<p>I am starting out by killing a couple of birds in one stone. I want to accomplish two things first. One, I want to switch
+from a Windows environment and learn linux. Two, I want to get back into FGPGA development. I will go in depth on my 
+plans and topics I want to get familiar with for each, but that is the start, I guess.</p>
+
+<h2 id="migration">Migration</h2>
+<h3 id="intro-and-machine-specs">Intro and Machine Specs</h3>
+<p>I have been thinking about doing this for a while now. I have always looked at linux as something really interesting
+and it intimidated me because of how technical it can look from the outside. I used this website as an opportunity 
+to finally make the switch. I am not fully commited to Linux in the sense that I erased windows and just started a new. 
+I am currently running a virtual machine using Virtual Box. I have given the machine 8 cores of my 16 and 8Gb of RAM. 
+With these specs, this machine should be pretty snappy.</p>
+
+<h3 id="distribution">Distribution</h3>
+<p>I chose to use Pop!_OS for this machine because I am looking to purchase a System76 laptop.
+System76 is the developer of Pop!_OS as well as a laptop manufacturer. 
+I will talk about that in another post though. This distribution seemed cool to me, because
+since it is based on Ubuntu, finding help online is plentiful and it is good for new Linux users.
+Also I have seen the distribution feaatured on a lot of Linus Media Group videos on youtube. They seemed to like
+it so I have been using it heavily for around the past week.</p>
+
+<h3 id="software">Software</h3>
+
+<h2 id="fpgas">FPGA’s</h2>
+:ET
